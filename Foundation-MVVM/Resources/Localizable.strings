@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+*/
+
+"login-button-title" = "Connect with Spotify";
+"login-title" = "Why connect?";
+"usp1" = "Because why not?";
+"usp2" =  "Draw a song by a text to image AI!";
+"usp3" = "I would like you to see them!";
+"empty-state" = "Search for your favorite songs";
+"error-title" = "An error has occured";
+"error-subtitle-regular" = "Please try again";
+"prediction-title" = "This is how an AI imagines";
+"prediction-suggestion" = "Try these:";
+"prediction-running" = "Running prediction";
+"prediction-completed" = "Prediction completed";
+
